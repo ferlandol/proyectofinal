@@ -1,4 +1,9 @@
 # Crear Proyecto
-1. Instalar entorno virtual con python -m venv venv
-2. 
-
+1. Crear carpeta de proyecto proyectofinal
+2. Configurar entorno virtual con: python -m venv venv
+3. Iniciar entorno virtual venv\Scripts\activate
+4. Instalar herramientas de este proyecto en el entorno virtual:
+    - pip install django
+    - pip install django-crispy_forms
+    - pip install crispy_bootstrap4
+    - pip install Pillow
