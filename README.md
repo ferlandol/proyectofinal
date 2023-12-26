@@ -4,6 +4,7 @@
 3. Iniciar entorno virtual venv\Scripts\activate
 4. Instalar herramientas de este proyecto en el entorno virtual:
     - pip install django
+    - python.exe -m pip install --upgrade pip (actualizar pip)
     - pip install django-crispy_forms
     - pip install crispy_bootstrap4
     - pip install Pillow
